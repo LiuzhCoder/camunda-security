@@ -1,0 +1,2 @@
+# camunda-security
+最近做的项目的核心就是security，基于springboot2+security5+camunda7，希望能通过亲自手敲，把所有的技术难点都过一遍，增强自己的代码能力。同时为了节省经历，没什么技术性的工作全都交给ai
